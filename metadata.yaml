@@ -49,6 +49,8 @@ description: "Puck of Pook's Hill is a fantasy book by Rudyard Kipling, publishe
   \ four years later by a second volume, Rewards and Fairies, featuring the same children\
   \ in the following summer.\nT. S. Eliot included several of the poems in his 1941\
   \ collection A Choice of Kipling's Verse.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15976#Puck-of-Pook-s-Hill
 gutenberg_bookshelf:
 - Scouts
 - Children's Literature
