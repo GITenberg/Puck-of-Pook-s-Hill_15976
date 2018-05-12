@@ -1,0 +1,86 @@
+_repo: Puck-of-Pook-s-Hill_15976
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Millar, H. R. (Harold Robert)
+    aliases:
+    - Millar, H.R.
+    - Millar, Harold Robert
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '7296'
+    url: http://www.gutenberg.org/2009/agents/7296
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: "Puck of Pook's Hill is a fantasy book by Rudyard Kipling, published\
+  \ in 1906, containing a series of short stories set in different periods of English\
+  \ history. It can count both as historical fantasy – since some of the stories told\
+  \ of the past have clear magical elements, and as contemporary fantasy – since it\
+  \ depicts a magical being active and practising his magic in the England of the\
+  \ early 1900s when the book was written.\nThe stories are all narrated to two children\
+  \ living near Burwash, in the area of Kipling's own house Bateman's, by people magically\
+  \ plucked out of history by the elf Puck, or told by Puck himself. (Puck, who refers\
+  \ to himself as \"the oldest Old Thing in England\", is better known as a character\
+  \ in William Shakespeare's play A Midsummer Night's Dream.) The genres of particular\
+  \ stories range from authentic historical novella (A Centurion of the Thirtieth,\
+  \ On the Great Wall) to children's fantasy (Dymchurch Flit). Each story is bracketed\
+  \ by a poem which relates in some manner to the theme or subject of the story.\n\
+  Donald Mackenzie, who wrote the introduction for the Oxford World's Classics edition\
+  \ of Puck of Pook's Hill in 1987, has described this book as an example of archaeological\
+  \ imagination that, in fragments, delivers a look at the history of England, climaxing\
+  \ with the signing of Magna Carta.\nPuck calmly concludes the series of stories:\
+  \ \"Weland gave the Sword, The Sword gave the Treasure, and the Treasure gave the\
+  \ Law. It's as natural as an oak growing.\"\nThe stories originally appeared in\
+  \ the Strand Magazine in 1906 with illustrations by Claude Allen Shepperson, but\
+  \ the first book-form edition was illustrated by H. R. Millar. Arthur Rackham provided\
+  \ four colour plates for the first US edition. Puck of Pook's Hill was followed\
+  \ four years later by a second volume, Rewards and Fairies, featuring the same children\
+  \ in the following summer.\nT. S. Eliot included several of the poems in his 1941\
+  \ collection A Choice of Kipling's Verse.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Scouts
+- Children's Literature
+gutenberg_issued: '2005-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15976'
+  wikidata: Q4342308
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Space and time -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- Fiction'
+tableOfContents: Puck's song -- Weland's sword -- A tree song -- Young men at the
+  manor -- Sir Richard's song -- Harp song of the Dane women -- The knights of the
+  joyous venture -- Thorkild's song -- Old men at Pevensey -- The runes on Weland's
+  sword -- A centurion of the Thirtieth -- A Britsh-Roman song -- On the great wall
+  -- A song to Mithras -- The winged hats -- A Pict song -- Hal o' the draft -- A
+  smuggler's song -- The bee boy's song -- 'Dymchurch Flit' -- A three-part song --
+  Song of the fifth river -- The treasure and the law -- The children's song.
+title: Puck of Pook's Hill
+url: http://www.gutenberg.org/ebooks/15976
+wikipedia:
+- https://fr.wikipedia.org/wiki/Puck,_lutin_de_la_colline
+- https://pl.wikisource.org/wiki/Puk_z_Pukowej_G%C3%B3rki
+- https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%DA%A9_%D8%A2%D9%88_%D9%BE%D9%88%DA%A9%D8%B2_%D9%87%DB%8C%D9%84
+- https://es.wikipedia.org/wiki/Puck_de_la_colina_de_Pook
+- https://en.wikisource.org/wiki/Puck_of_Pook%27s_Hill
+- https://en.wikipedia.org/wiki/Puck_of_Pook%27s_Hill
+- https://commons.wikimedia.org/wiki/Category:Puck_of_Pook%27s_Hill
+- https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BA_%D1%81_%D0%A5%D0%BE%D0%BB%D0%BC%D0%BE%D0%B2
